@@ -1,11 +1,22 @@
-- 👋 Hi, I’m @L-C-Lyra, but you can call me Lucas Lyra!
-- 👀 I’m interested in Learn++ && Program++!
-- 🌱 I'm currently learning Computer Architectures, Logic for Computer Science and The C Language, as well as learning more about Computing and Society!
-- ⚡ Fun fact: Since I was a child, I dreamed of being a sports narrator, but now it doesn't make sense, as I've never seen a narrator narrate codes!
+# 👋 Hello! Welcome to my Github Profile.
+## My name is <i>Lucas C Lyra Pereira</i>, but you can call me <i>"@L-C-Lyra"</i>!
 
-<!---[3] - 💞️ I’m looking to collaborate on ...
-[4] - 📫 How to reach me ...--->
-<!---
-L-C-Lyra/L-C-Lyra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Learn++ && Program++!
+- 🌱 I'm currently learning <b>Computer Architectures</b>, <b>Logic for Computer Science</b> and The <b>C Language</b> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" width="12.5" height="12.5"/>, as well as learning more about <b>Computing and Society</b>!
+- ⚡ Fun Fact: Since I was a child, I dreamed of being a sports narrator, but now it doesn't make sense, as I've never seen a narrator narrate codes!
+
+## GitHub Stats:
+<div>
+<a href="https://github.com/L-C-Lyra">
+<img loading="lazy" height="201em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L-C-Lyra&layout=compact&langs_count=7&theme=ambient_gradient"/>
+<img loading="lazy" height="201em" src="https://github-readme-stats.vercel.app/api?username=L-C-Lyra&show_icons=true&theme=ambient_gradient&include_all_commits=true&count_private=true"/>
+</div>
+
+## My Contacts:
+<div>
+<a href="https://instagram.com/luclycp/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:lucas.c.lyra.p@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/L-C-Lyra/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+![Snake animation](https://github.com/L-C-Lyra/L-C-Lyra/blob/output/github-contribution-grid-snake.svg)
