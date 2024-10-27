@@ -6,11 +6,22 @@
 
 <br>
 
-<ul>
-  <li>👀 I’m interested in Learn++ && Program++!</li>
-  <li>🌱 I'm currently learning <b>Computer Architectures</b>, <b>Logic for Computer Science</b> and The <b>C Language</b> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" width="12.5" height="12.5"/>, as well as learning more about <b>Computing and Society</b>!</li>
-  <li>⚡ Fun Fact: Since I was a child, I dreamed of being a sports narrator, but now it doesn't make sense, as I've never seen a narrator narrate codes!</li>
-</ul>
+- 👀 I’m interested in Learn++ && Program++!
+- 🌱 I'm currently learning <b>Computer Architectures</b>, <b>Logic for Computer Science</b> and The <b>C Language</b>, as well as learning more about <b>Computing and Society</b>!
+- ⚡ Fun Fact: Since I was a child, I dreamed of being a sports narrator, but now it doesn't make sense, as I've never seen a narrator narrate codes!
+
+<br>
+
+### Languages:
+
+![C](https://img.shields.io/badge/-c-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=0076dc&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+
+### Tools:
+
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 
 <br>
 
