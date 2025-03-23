@@ -7,7 +7,7 @@
 <br>
 
 - 👀 I’m interested in Learn++ && Program++!
-- 🌱 I'm currently learning <b>Computer Architectures</b>, <b>Logic for Computer Science</b> and The <b>C Language</b>, as well as learning more about <b>Computing and Society</b>!
+- 🌱 I'm currently learning <b>Computer Architectures</b>, <b>Logic for Computer Science</b>, The <b>Java Language</b>, and delving deeper into the <i>C Language</i>, learning <b>Data Structures and Their Algorithms</b>!
 - ⚡ Fun Fact: Since I was a child, I dreamed of being a sports narrator, but now it doesn't make sense, as I've never seen a narrator narrate codes!
 
 <br>
@@ -15,6 +15,7 @@
 ### Languages:
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
 ### Tools:
