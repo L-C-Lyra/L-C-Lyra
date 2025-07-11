@@ -47,11 +47,4 @@
 <br>
 <br>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&color=7DFDFE&size=35&center=true&vCenter=true&width=1000&lines=Visitor+Counter!)](https://git.io/typing-svg)
-<div align="center">
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{L-C-Lyra}/count.svg"/></p> 
-</div>
-
-<br>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7DFDFE&height=120&section=footer"/>
