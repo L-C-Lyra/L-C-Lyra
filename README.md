@@ -7,7 +7,7 @@
 <br>
 
 - 👀 I’m interested in Learn++ && Program++!
-- 🌱 I'm currently learning <b>Computer Architectures</b>, <b>Logic for Computer Science</b>, The <b>Java Language</b>, and delving deeper into the <i>C Language</i>, learning <b>Data Structures and Their Algorithms</b>!
+- 🌱 I'm currently learning <b>Software Engineering</b>, delving deeper into the <i>C Language</i>, learning <b>Data Structures and Their Algorithms</b>, <b>Logic for Computer Science</b>, <b>Numerical Methods</b>, and <b>Operational Research</b>!
 - ⚡ Fun Fact: Since I was a child, I dreamed of being a sports narrator, but now it doesn't make sense, as I've never seen a narrator narrate codes!
 
 <br>
@@ -15,6 +15,7 @@
 ### Languages:
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
@@ -22,6 +23,8 @@
 
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
+![PyCharm](https://img.shields.io/badge/PyCharm-000?style=for-the-badge&logo=pycharm&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 
